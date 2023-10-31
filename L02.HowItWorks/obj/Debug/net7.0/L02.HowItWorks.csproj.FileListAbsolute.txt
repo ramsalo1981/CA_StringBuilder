@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L02.HowItWorks\bin\Debug\net7.0\L02.HowItWorks.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L02.HowItWorks\bin\Debug\net7.0\L02.HowItWorks.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L02.HowItWorks\bin\Debug\net7.0\L02.HowItWorks.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L02.HowItWorks\bin\Debug\net7.0\L02.HowItWorks.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L02.HowItWorks\bin\Debug\net7.0\L02.HowItWorks.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L02.HowItWorks\obj\Debug\net7.0\L02.HowItWorks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L02.HowItWorks\obj\Debug\net7.0\L02.HowItWorks.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L02.HowItWorks\obj\Debug\net7.0\L02.HowItWorks.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L02.HowItWorks\obj\Debug\net7.0\L02.HowItWorks.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L02.HowItWorks\obj\Debug\net7.0\L02.HowItWorks.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L02.HowItWorks\obj\Debug\net7.0\refint\L02.HowItWorks.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L02.HowItWorks\obj\Debug\net7.0\L02.HowItWorks.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L02.HowItWorks\obj\Debug\net7.0\L02.HowItWorks.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L02.HowItWorks\obj\Debug\net7.0\ref\L02.HowItWorks.dll

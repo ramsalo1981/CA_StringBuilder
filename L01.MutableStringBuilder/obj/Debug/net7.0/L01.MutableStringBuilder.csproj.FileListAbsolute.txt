@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L01.MutableStringBuilder\bin\Debug\net7.0\L01.MutableStringBuilder.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L01.MutableStringBuilder\bin\Debug\net7.0\L01.MutableStringBuilder.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L01.MutableStringBuilder\bin\Debug\net7.0\L01.MutableStringBuilder.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L01.MutableStringBuilder\bin\Debug\net7.0\L01.MutableStringBuilder.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L01.MutableStringBuilder\bin\Debug\net7.0\L01.MutableStringBuilder.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L01.MutableStringBuilder\obj\Debug\net7.0\L01.MutableStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L01.MutableStringBuilder\obj\Debug\net7.0\L01.MutableStringBuilder.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L01.MutableStringBuilder\obj\Debug\net7.0\L01.MutableStringBuilder.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L01.MutableStringBuilder\obj\Debug\net7.0\L01.MutableStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L01.MutableStringBuilder\obj\Debug\net7.0\L01.MutableStringBuilder.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L01.MutableStringBuilder\obj\Debug\net7.0\refint\L01.MutableStringBuilder.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L01.MutableStringBuilder\obj\Debug\net7.0\L01.MutableStringBuilder.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L01.MutableStringBuilder\obj\Debug\net7.0\L01.MutableStringBuilder.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L01.MutableStringBuilder\obj\Debug\net7.0\ref\L01.MutableStringBuilder.dll

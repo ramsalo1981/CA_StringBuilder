@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L03.Instantiation\bin\Debug\net7.0\L03.Instantiation.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L03.Instantiation\bin\Debug\net7.0\L03.Instantiation.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L03.Instantiation\bin\Debug\net7.0\L03.Instantiation.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L03.Instantiation\bin\Debug\net7.0\L03.Instantiation.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L03.Instantiation\bin\Debug\net7.0\L03.Instantiation.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L03.Instantiation\obj\Debug\net7.0\L03.Instantiation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L03.Instantiation\obj\Debug\net7.0\L03.Instantiation.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L03.Instantiation\obj\Debug\net7.0\L03.Instantiation.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L03.Instantiation\obj\Debug\net7.0\L03.Instantiation.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L03.Instantiation\obj\Debug\net7.0\L03.Instantiation.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L03.Instantiation\obj\Debug\net7.0\refint\L03.Instantiation.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L03.Instantiation\obj\Debug\net7.0\L03.Instantiation.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L03.Instantiation\obj\Debug\net7.0\L03.Instantiation.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\Metigator45\L03.Instantiation\obj\Debug\net7.0\ref\L03.Instantiation.dll
