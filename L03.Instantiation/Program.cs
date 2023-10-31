@@ -6,12 +6,12 @@ namespace L03.Instantiation
     {
         static void Main(string[] args)
         {
-            RunConstructorOverLoad1();
+            //RunConstructorOverLoad1();
             // RunConstructorOverLoad2();
             // RunConstructorOverLoad3();
             // RunConstructorOverLoad4();
             // RunConstructorOverLoad5();
-            //RunConstructorOverLoad6();
+            RunConstructorOverLoad6();
 
             Console.ReadKey();
         }
